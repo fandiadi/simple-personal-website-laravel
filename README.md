@@ -45,7 +45,7 @@ You can manage your own posts, edit, delete, and see preview posts. There is a c
    git clone https://github.com/fandiadi/simple-personal-website-laravel.git
    ```
 
-2. Upload sql from (https://github.com/fandiadi/simple-personal-website-laravel/tree/main/database/my_blog.sql)
+2. Upload sql with (https://github.com/fandiadi/simple-personal-website-laravel/tree/main/database/my_blog.sql)
 
     OR 
 
